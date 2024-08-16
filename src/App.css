@@ -1,0 +1,14 @@
+.greeting-1{
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.greeting-2{
+    background-color: yellowgreen;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 20px; ;
+}
+
